@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 
 const filmSchema = new mongoose.Schema({
     id: Number,
-    filmName: String,
+    name: String,
     time: Number,
     year: Number,
     image: String,
