@@ -1,0 +1,4 @@
+const generatedToken = []
+export {
+    generatedToken
+}
